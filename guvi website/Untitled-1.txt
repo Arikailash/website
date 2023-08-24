@@ -1,0 +1,14 @@
+project-folder/
+├── css/
+│   ├── styles.css (compiled from styles.scss)
+│   └── styles.scss
+├── js/
+│   ├── main.js
+│   └── jquery.min.js
+├── includes/
+│   ├── db.php
+│   └── functions.php
+├── index.html
+├── signup.html
+├── login.html
+└── profile.php
